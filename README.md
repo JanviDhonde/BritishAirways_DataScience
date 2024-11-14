@@ -1,6 +1,6 @@
 # British Airways Data Science Job Simulation
 **BritishAirways_DataScience:** <br>
-Completed British Airways' Data Science job simulation on Forage, analyzing customer review data and building a predictive model to understand buying behavior. Gained skills in Python, web scraping, data visualization, and machine learning. Presented insights in PowerPoint for business decision-making.
+Completed British Airways' Data Science job simulation on Forage, analyzing customer review data and building a predictive model to understand buying behavior. Gained skills in Python, web scraping, data visualization, and machine learning. Presented insights in PowerPoint for business decision-making..
   
 **Repository Overview:**  
 This repository showcases my experience in British Airways' Data Science job simulation on the Forage platform. In this simulation, I explored how data science drives business success at British Airways, focusing on customer insights and predictive modeling. I analyzed customer reviews, built a predictive model, and communicated insights effectively.
