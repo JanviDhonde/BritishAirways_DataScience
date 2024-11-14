@@ -37,7 +37,3 @@ This repository reflects my ability to use data science techniques to derive ins
 Completed via British Airways’ Data Science Job Simulation on Forage  
 **Certificate of Completion Issued by:**  
 Forage in collaboration with British Airways  
-
----
-
-This script is concise and highlights the key aspects of the simulation, showcasing both technical skills and communication abilities. Let me know if you need any adjustments!
